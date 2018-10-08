@@ -9,7 +9,6 @@ and install all the requirements.
 ```
 brew install cmake
 brew install boost
-git clone https://github.com/ZimboPro/Bomberman.git
 cd Bomberman && mkdir build && cd build
 cmake ..
 make
